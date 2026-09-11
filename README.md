@@ -14,7 +14,7 @@ Java • SQL • Git • Python • Spring Boot
 
 Organizo meus projetos, exercícios e estudos no meu:
 
-**[📚 Portfólio](https://github.com/vicamposrs/portfolio)**
+**[📚 Portfólio](https://github.com/vicamposrs/portifolio)**
 
 ## 📫 Onde me encontrar
 
